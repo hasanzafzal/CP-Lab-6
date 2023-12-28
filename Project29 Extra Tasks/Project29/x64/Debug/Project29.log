@@ -1,0 +1,2 @@
+﻿Extra Task 2.obj : error LNK2005: main already defined in Extra Task 1.obj
+C:\Users\hzafz\source\repos\Project29\x64\Debug\Project29.exe : fatal error LNK1169: one or more multiply defined symbols found
